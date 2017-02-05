@@ -1,0 +1,17 @@
+{
+  "name": "babylon-js-example",
+  "version": "1.0.0",
+  "description": "Babylon.js example with typescript",
+  "main": "index.html",
+  "dependencies": {
+    "babylonjs": "^2.5.0",
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

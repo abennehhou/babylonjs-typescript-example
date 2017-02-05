@@ -83,3 +83,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Build folder for generated javascript files
+build
